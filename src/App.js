@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-       Testing my React App
+                  Testing my React App
+       My First deployment to local Kubernetes Cluster
         </p>
         <a
           className="App-link"
