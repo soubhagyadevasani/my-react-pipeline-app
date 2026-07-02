@@ -22,4 +22,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: your-username/my-react-app:latest
+          tags: jannuprathik/my-react-app:latest
