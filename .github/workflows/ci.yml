@@ -28,3 +28,6 @@ jobs:
 
     - name: Build Application
       run: npm run build
+
+    - name: Run Linting
+      run: npm run lint # This checks your code quality
